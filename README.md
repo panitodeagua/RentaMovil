@@ -1,5 +1,12 @@
 # RentaMovil
+## Compilar y ejecutar
 
+Abra una terminal dentro de la carpeta `RentaMovil`.
+
+```sh
+javac -encoding UTF-8 -d out src/*.java
+java -cp out Main
+```
 
 ## Datos iniciales (generados con ayuda de IA)
 
